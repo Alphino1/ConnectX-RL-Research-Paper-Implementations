@@ -156,5 +156,9 @@ This project is licensed under the MIT License.
 
 2. Kaggle ConnectX Competition – https://www.kaggle.com/competitions/connectx
 
+---
 
+### Ongoing Work and Future Direction
+This repository reflects an evolving body of work: shaped by deliberate effort, continuous learning, and a continuous attempt to thoughtful progress. While the current state represents a small subset of meaningful work, it remains part of a broader, ongoing journey: open to refinement, extension, and deeper understanding. As with any thoughtful pursuit, the process is dynamic, not definitive.
 
+It serves as a reflection of ongoing exploration rather than a finished destination: a work in progress informed by every question, insight, and perspective encountered along the way. Sustained by curiosity and the steady momentum of iteration, this journey is far from complete. And in that lies its greatest potential.
