@@ -77,14 +77,24 @@ Agents generate training data by playing against themselves using MCTS guided by
 ```bash
 ## Installation
 
-```bash
-git clone https://github.com/Alphino1/ConnectX-RL-Research-Paper-Implementations.git
-cd ConnectX-RL-Research-Paper-Implementations
+
+git clone https://github.com/Alphino1/ConnectX-RL-Research-Paper-Implementations.git  
+cd ConnectX-RL-Research-Paper-Implementations  
+
+# (Optional) create and activate a virtual environment
+python3 -m venv .venv  
+source .venv/bin/activate  # on Windows use: .venv\Scripts\activate
+
+# install all Python dependencies
+pip install --upgrade pip  
 pip install -r requirements.txt
 
-> Requires: Python ≥ 3.8, PyTorch ≥ 1.9, NumPy, tqdm
+### Requirements
 
-
+- Python ≥ 3.8  
+- PyTorch ≥ 1.9  
+- NumPy  
+- tqdm
 
 
 ```
